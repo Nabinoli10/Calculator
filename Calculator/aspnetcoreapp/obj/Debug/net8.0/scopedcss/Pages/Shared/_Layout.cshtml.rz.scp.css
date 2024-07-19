@@ -1,0 +1,73 @@
+
+.a.navbar-brand[b-fcggehlobr] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+
+.a[b-fcggehlobr] {
+  color: #0077cc;
+}
+
+
+.btn-primary[b-fcggehlobr] {
+  color: #fff;
+  background-color: blueviolet;
+  border-color: green;
+}
+
+
+.nav-pills .nav-link.active[b-fcggehlobr], .nav-pills .show > .nav-link[b-fcggehlobr] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+
+.border-top[b-fcggehlobr] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-fcggehlobr] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+
+.box-shadow[b-fcggehlobr] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+
+button.accept-policy[b-fcggehlobr] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+
+.footer[b-fcggehlobr] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
+
+
+.button[b-fcggehlobr] {
+  color: seagreen;
+  background-color: #1b6ec2;
+  border: 1px solid #1861ac;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.button:hover[b-fcggehlobr] {
+  background-color: #1861ac;
+  border-color: #145a96;
+}
+
+.button:active[b-fcggehlobr] {
+  background-color: #145a96;
+  border-color: #114e84;
+}

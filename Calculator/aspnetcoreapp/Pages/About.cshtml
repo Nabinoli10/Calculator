@@ -1,0 +1,34 @@
+@page
+@model AboutModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+ 
+    <form action="" method="POST">
+        <input type="text" placeholder="Enter Num1" name="num1" />
+        <input type="text" placeholder="Enter Num2" name="num2" /><br><br>
+        <input type="submit" value="+" name="+" />
+         <input type="submit" value="-" name="-" />
+         <input type="submit" value="*" name="*" />
+        <input type="submit" value="/" name="/" />
+         <input type="submit" value="^" name="^" />
+        <input type="submit" value="^2" name="^2" />
+        <input type="submit" value="^3" name="^3" />
+
+
+ 
+        <p>@ViewData["sum"]</p>
+        <p>@ViewData["squares"]</p>
+        <p>@ViewData["power"]</p>
+        <p>@ViewData["multiply"]</p>
+        <p>@ViewData["subtrct"]</p>
+        <p>@ViewData["divison"]</p>
+         <p>@ViewData["cube"]</p>
+
+
+        
+
+    </form>
+</div> 
